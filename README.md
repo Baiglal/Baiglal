@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Lal.
-- 👀 I have a keen interest in SAP.
-- 🌱 Currently, I am enhancing my skills in SAP BTP.
-- 💞️ I am seeking opportunities to collaborate with professionals in the SAP and other cloud domains.
+- 👀 I have a keen interest in SAP & Cybersecurity
+- 🌱 Currently, I am enhancing my skills in SAP BTP & Cybersecurity
+- 💞️ I am seeking opportunities to collaborate with professionals in the SAP and other cloud security domains.
 - ⚡ Fun fact: Ensuring my HANA database runs seamlessly requires navigating across multiple cloud platforms.
 
 <!---
